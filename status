@@ -1,0 +1,44 @@
+{
+    "tracking": {
+        "track_activities": [
+            {
+                "status_name": "Order Placed",
+                "created": "2022-10-26 20:38:00",
+                "location": null,
+                "code": "OP"
+            },
+            {
+                "status_name": "Manifest uploaded",
+                "created": "2022-10-26 20:38:00",
+                "location": "Bangalore_Nelamangla_H (Karnataka)",
+                "code": "OM"
+            },
+            {
+                "status_name": "Order Picked Up",
+                "created": "2022-10-26 22:14:00",
+                "location": "",
+                "code": "PP"
+            },
+            {
+                "status_name": "Order Dispatched",
+                "created": "2022-10-26 22:14:00",
+                "location": "",
+                "code": "OD"
+            }
+            {
+                "status_name": "Order Cancelled",
+                "created": "2022-10-26 22:14:00",
+                "location": "",
+                "code": "OC"
+            }
+        ],
+        "estimate_date_of_delivery": "2022-10-29 13:00:00",
+        "tracking_id": "12105731785621",
+        "order_id": "78163832",
+        "from_state": "KARNATAKA",
+        "from_pincode": "560003",
+        "to_state": "TAMIL NADU",
+        "to_pincode": ""
+    },
+    "partner": "PICKRR"
+}
